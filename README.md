@@ -1,7 +1,5 @@
 🕷️ MASTERTECH-MD 🕷️
-[[<a href="https://ibb.co/zfd01dv"><img src="https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg" alt="1728892250720" border="0"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>](https://static.animecorner.me/2023/08/op2.jpg)
-]
+<a href="https://ibb.co/chn24YJF"><img src="https://i.ibb.co/B2MT0nLZ/images-4-1.jpg" alt="images-4-1" border="0"></a>
 
 🕷️MASTERTECH-MD🕷️
   

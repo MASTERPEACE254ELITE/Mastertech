@@ -29,6 +29,7 @@
 
 
 [`PAIRING CODE`][https://mastertech-md-elite.onrender.com]
+[https://mastertechelite.onrender.com]
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/1hupaLL.img'/></a>

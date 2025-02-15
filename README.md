@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=MASTERTECH+MD+⭕+CREATED+BY+MASTERPEACE )](https://git.io/typing-svg) 
 
-<p align="centre"><img src="<img src="<img src="https://i.ibb.co/jvTFhLwF/IMG-20250215-140630.jpg" width="500" height=400"/>
+<p align="centre"><img src="<img src="<img src="<img src="https://i.ibb.co/jvTFhLwF/IMG-20250215-140630.jpg" alt="IMG-20250215-140630" width="500" height=400"/>
 
 
 

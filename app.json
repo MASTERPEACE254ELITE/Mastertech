@@ -40,19 +40,19 @@
 	  "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react message in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 	  "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 	  "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when you are offline",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_READ_STATUS":
@@ -151,7 +151,7 @@
     },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
   }
   },

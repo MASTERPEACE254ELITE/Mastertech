@@ -13,6 +13,9 @@
   <img src="https://i.imgur.com/LyHic3i.gif" height="20" width="100%">
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&color=00FF00&center=true&width=500&lines=MASTERTECH+MD;WHATSAPP+BOT" alt="Typing animation">
+</h1>
 <!-- BOT PREVIEW IMAGE -->
 <p align="center">
   <img src="https://i.ibb.co/jvTFhLwF/IMG-20250215-140630.jpg" width="300" alt="MasterTech MD Bot Preview">

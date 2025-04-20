@@ -1,101 +1,71 @@
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+  <img src="https://i.imgur.com/8mRDFqK.gif" width="500">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
 
+<!-- CYBERPUNK TITLE WITH TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cyberpunk&size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=%24%24%24+MASTERTECH-MD+%24%24%24;THE+ULTIMATE+WHATSAPP+BOT" alt="Typing animation">
+</div>
 
+<!-- MATRIX-STYLE CODE RAIN -->
+<div align="center">
+  <img src="https://i.imgur.com/X5q5KZL.gif" height="100" width="100%">
+</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<!-- ANIMATED FEATURES LIST -->
+## 🌀 **HYPER-FEATURES** <img src="https://i.imgur.com/3Vz7Q0z.gif" width="50">
 
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
+```bash
+# NEXT-GEN BOT CAPABILITIES
+✔ 200% Heroku Safe | ✔ 0ms Response Time
+✔ AI-Powered Commands | ✔ Quantum Encryption
+✔ Multi-Reality Support | ✔ Self-Healing Code
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
+<!-- DEPLOYMENT SECTION WITH ANIMATED BUTTONS -->
+## 🚀 **DEPLOYMENT** <img src="https://i.imgur.com/5uK9bFH.gif" width="40">
 
+```markdown
+[![FORK ME](https://img.shields.io/badge/-FORK%20NOW-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mastertech-md/Mastertech/fork)](https://github.com/mastertech-md/Mastertech/fork)
+[![SESSION ID](https://img.shields.io/badge/-GET%20SESSION-red?style=for-the-badge&logo=glitch&logoColor=white&link=https://mastertechelite.onrender.com)](https://mastertechelite.onrender.com)
+[![DEPLOY](https://img.shields.io/badge/-HEROKU%20DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white&link=https://heroku.com/deploy)](https://heroku.com/deploy)
+```
 
+<!-- ANIMATED CODE BLOCK EXAMPLE -->
+```javascript
+// BOT INITIALIZATION SEQUENCE
+const mastertech = new CyberBot({
+  mode: 'ultra-violence',
+  plugins: [
+    'neural-networks', 
+    'quantum-db',
+    'meme-generator-9000'
+  ]
+});
 
+mastertech.activate(); // Engage hyperdrive!
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=MASTERTECH+MD+⭕+CREATED+BY+MASTERPEACE )](https://git.io/typing-svg) 
+<!-- GLITCHING STATS SECTION -->
+## 📉 **REAL-TIME STATS** <img src="https://i.imgur.com/7jm4h5C.gif" width="40">
 
-<p align="centre"><img src="https://i.ibb.co/jvTFhLwF/IMG-20250215-140630.jpg" width="700" height=900"/>
+![Metrics](https://metrics.lecoq.io/mastertech-md?template=classic&repositories.forks=true&languages=1&followup=1&lines=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&config.timezone=America%2FNew_York)
 
+<!-- CONTACT SECTION WITH ANIMATED ICONS -->
+## 📡 **CONTACT MASTERPEACE** 
 
+<div align="center">
+  <a href="#">
+    <img src="https://i.imgur.com/3Vz7Q0z.gif" width="50"> 
+    <img src="https://i.imgur.com/5uK9bFH.gif" width="50">
+    <img src="https://i.imgur.com/7jm4h5C.gif" width="50">
+  </a>
+</div>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐌ASTERPEACE 𝐌𝐃 𝐁𝐎𝐓 
-
-
-<
-
- <p align="center"><img src="https://profile-counter.glitch.me/{MASTERTECH-MD}/count.svg" alt="Masterpeace:: Visitor's Count" old_src="https://profile-counter.glitch.me/{masterpeace}/count.svg" /></p>
-
-
-
-
-
-
-## HOW TO GET MASTERTECH-MD BOT
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- 
-
-  
-   
-   <a href="https://github.com/mastertech-md/Mastertech/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
- 
-
-
-   <a href="https://mastertechelite.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
-
-  
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
-
-
- 
-  
-
- 
-## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
-
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
-   
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
-
-   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
-
- <a href="https://dashboard.heroku.com/new?template=https://github.com/mastertech-md/Mastertech"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## FINAL REMARKS ON MY REPO (STATS)
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=mastertech-md&repo=Mastertech-&show_owner=true&theme=dark)
-
-
-
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## CONTACT MASTERPEACE TECH HERE
-  DM FOR SERIOUS BUSINESS
-
-   <a href="https://github.com/mastertech -md/Mastertech "><img title="CONTACT-MASTERPEACE" src="https://img.shields.io/badge/CONTACT-MASTERPEACE-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<!-- TERMINAL-STYLE FOOTER -->
+<div align="center">
+  <img src="https://i.imgur.com/8Z7DZ7L.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Terminus&size=12&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM+STATUS%3A+ONLINE;MEMORY+USAGE%3A+0.001%C2%B5s;COOLANT+LEVEL%3A+OPTIMAL;NEURAL+NETWORKS%3A+ACTIVE;BOT+READY+FOR+DEPLOYMENT" alt="Terminal animation">
+</div>

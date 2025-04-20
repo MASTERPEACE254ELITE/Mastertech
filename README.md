@@ -1,6 +1,6 @@
 <!-- HEADER WITH WORKING BANNER -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </div>
 
 <!-- MAIN TITLE -->
